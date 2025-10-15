@@ -38,7 +38,7 @@
 
 <h2 align="center">🧠 Terminal</h2>
 
-```bash
+
 > Kyn@dev:~$ whoami
 > Piloto de ideas y arquitecto de código ✈️
 
