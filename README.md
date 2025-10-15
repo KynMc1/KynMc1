@@ -77,4 +77,4 @@
 ---
 
 <h4 align="center">✨ “Code your dreams, then fly above them.” ✈️</h4>
-src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" /> </p>
+badge&logo=vercel&logoColor=00BFFF" /> </a> </p> <p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" /> </p>
