@@ -1,4 +1,4 @@
-##                               ¡Hola!, Soy KynMc 🛩️
+##                                      ¡Hola!, Soy KynMc 🛩️
 
 <!--
 **KynMc1/KynMc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
