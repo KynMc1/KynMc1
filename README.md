@@ -12,14 +12,6 @@
 </p>
 
 ---
-
-<!-- Skills -->
-<h2 align="center">⚙️ Lenguajes & Herramientas</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,java,python,git,github,vscode&theme=dark" />
-</p>
-
 ---
 
 <!-- Projects -->
